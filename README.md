@@ -58,5 +58,5 @@ Charts and graphs were created to illustrate:
 
 ## 👤 Author
 
-Your Name
-Economics / Data Analytics Enthusiast
+Md Sameer Uddin
+Data Analytics Enthusiast
